@@ -1,0 +1,22 @@
+.button_edit{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: white;
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
+    box-shadow: 0 2px 3px rgb(245, 245, 245);
+}
+
+.arrow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    background: rgb(54, 125, 203);
+    border-radius: 50%;
+    color: white;
+}

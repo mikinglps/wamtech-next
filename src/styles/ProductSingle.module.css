@@ -1,0 +1,28 @@
+.products_single{
+    padding: 1%;
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    background-color: white;
+    
+}
+
+.products_single h4{
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.products_single p{
+    font-weight: 200;
+    font-size: 14px;
+}
+
+.products_single .image_holder{
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+
+.products_single img{
+    max-width: 100px;
+}

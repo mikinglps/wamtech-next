@@ -1,0 +1,31 @@
+.hero_wrapper{
+    display: flex;
+    height: 90vh;
+}
+
+.hero_left{
+    padding: 5%;
+    padding-top: 10%;
+    width: 25%;
+}
+
+.hero_left h2{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.hero_left p{
+    font-weight: 200;
+}
+
+.hero_right{
+    width: 75%;
+    background-image: url('http://localhost:3000/hero.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.hero_right img{
+    height: auto;
+    max-width: 960px;
+}
